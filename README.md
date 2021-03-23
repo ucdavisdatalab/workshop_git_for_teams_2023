@@ -1,5 +1,5 @@
-Practice Repository for Reproducible Research for Teams with GitHub
-===================================================================
+Practice Repository: Reproducible Research for Teams with GitHub
+================================================================
 
 Workshop reader: https://ucdavisdatalab.github.io/workshop_git_for_teams/
 
