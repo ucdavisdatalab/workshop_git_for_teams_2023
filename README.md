@@ -9,4 +9,4 @@ Instructions:
 Clone this repository, make a new branch named with your first name and last initial,
 and write your name below.
 
-Name: 
+Name: Tyler S. 
