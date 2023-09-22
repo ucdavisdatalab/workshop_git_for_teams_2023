@@ -10,5 +10,4 @@ Clone this repository, make a new branch named with your first name and last ini
 and write your name below.
 
 Name:
-Alexander Guess
-
+Alexander Guess 
